@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Yaroslav M.
+- Frontend developer on React/React Native
