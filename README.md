@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Yaroslav M.
 - Frontend developer
-- Stack: React, React Native
+- Stack: 
+- React
 - Material UI
 - ReactHookForms
 - Redux
 - Redux Thunk
+- React Router
+- React Native
+- React Navigation
