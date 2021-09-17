@@ -1,2 +1,7 @@
 - 👋 Hi, I’m Yaroslav M.
-- Frontend developer on React/React Native
+- Frontend developer
+- Stack: React, React Native
+- Matrial UI
+- ReactHookForms
+- Redux
+- Redux Thunk
