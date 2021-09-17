@@ -3,9 +3,10 @@
 - Stack: 
 - React
 - Material UI
-- ReactHookForms
+- React Hook Forms
 - Redux
 - Redux Thunk
 - React Router
 - React Native
 - React Navigation
+- React Paper Ui
